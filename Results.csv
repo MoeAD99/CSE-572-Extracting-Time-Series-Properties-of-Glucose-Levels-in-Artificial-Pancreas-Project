@@ -1,0 +1,37 @@
+Mode,Time Period,Metric,Value
+Manual Mode,Whole Day,hyperglycemia,22.318376068376068
+Manual Mode,Whole Day,hyperglycemia_critical,4.953703703703703
+Manual Mode,Whole Day,range,64.73112535612536
+Manual Mode,Whole Day,range_secondary,50.74074074074075
+Manual Mode,Whole Day,hypoglycemia_1,3.915598290598291
+Manual Mode,Whole Day,hypoglycemia_2,1.1663105413105415
+Manual Mode,Daytime,hyperglycemia,19.631410256410255
+Manual Mode,Daytime,hyperglycemia_critical,4.531695156695156
+Manual Mode,Daytime,range,45.20477207977208
+Manual Mode,Daytime,range_secondary,33.6894586894587
+Manual Mode,Daytime,hypoglycemia_1,3.297720797720798
+Manual Mode,Daytime,hypoglycemia_2,0.9846866096866097
+Manual Mode,Overnight,hyperglycemia,2.686965811965812
+Manual Mode,Overnight,hyperglycemia_critical,0.422008547008547
+Manual Mode,Overnight,range,19.526353276353277
+Manual Mode,Overnight,range_secondary,17.05128205128205
+Manual Mode,Overnight,hypoglycemia_1,0.6178774928774929
+Manual Mode,Overnight,hypoglycemia_2,0.18162393162393162
+Auto Mode,Whole Day,hyperglycemia,2.4946581196581197
+Auto Mode,Whole Day,hyperglycemia_critical,0.8315527065527066
+Auto Mode,Whole Day,range,4.643874643874644
+Auto Mode,Whole Day,range_secondary,3.573717948717949
+Auto Mode,Whole Day,hypoglycemia_1,0.4415954415954416
+Auto Mode,Whole Day,hypoglycemia_2,0.14779202279202278
+Auto Mode,Daytime,hyperglycemia,2.118945868945869
+Auto Mode,Daytime,hyperglycemia_critical,0.7514245014245013
+Auto Mode,Daytime,range,3.1481481481481484
+Auto Mode,Daytime,range_secondary,2.459045584045584
+Auto Mode,Daytime,hypoglycemia_1,0.38995726495726496
+Auto Mode,Daytime,hypoglycemia_2,0.14779202279202278
+Auto Mode,Overnight,hyperglycemia,0.3757122507122507
+Auto Mode,Overnight,hyperglycemia_critical,0.08012820512820513
+Auto Mode,Overnight,range,1.4957264957264955
+Auto Mode,Overnight,range_secondary,1.1146723646723646
+Auto Mode,Overnight,hypoglycemia_1,0.05163817663817664
+Auto Mode,Overnight,hypoglycemia_2,0.0
